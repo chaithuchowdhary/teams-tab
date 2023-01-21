@@ -25,6 +25,7 @@ export function Email(props) {
                       <a
                         href={item.webLink}
                         style={{ textDecoration: "none" }}
+                        target="_blank" rel="noopener noreferrer"
                         className="card-link"
                       >
                         open

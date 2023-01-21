@@ -1,5 +1,5 @@
-import { useContext, useState } from "react";
-import { Image, Menu } from "@fluentui/react-northstar";
+import { useContext } from "react";
+import { Image } from "@fluentui/react-northstar";
 import "./Welcome.css";
 import { app } from "@microsoft/teams-js";
 import { Graph } from "./Graph";
